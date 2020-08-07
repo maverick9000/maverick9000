@@ -9,13 +9,21 @@
 
 <br />
 
+---
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+---
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="maverick9000's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maverick9000&show_icons=true&hide_border=true" />
 
 [website]: https://maverick9000.github.io/
 [twitter]: https://twitter.com/maverick5000
