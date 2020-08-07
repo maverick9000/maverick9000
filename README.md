@@ -9,8 +9,16 @@
 
 <br />
 
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://maverick9000.github.io/
 [twitter]: https://twitter.com/maverick5000
 [youtube]: https://www.youtube.com/channel/UCD69b3wfgT6-HMrIP4tXv_w
 [linkedin]: https://www.linkedin.com/in/maverick-stoklosa
+
