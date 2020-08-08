@@ -13,6 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [命令行 1](https://www.youtube.com/watch?v=qn5h0Ur0hkw)
+- [Creating Users with Ansible](https://www.youtube.com/watch?v=oXqCpGWydAc)
+- [Forward root email with Ansible](https://www.youtube.com/watch?v=GcKzCepnWOo)
+- [Background Jobs](https://www.youtube.com/watch?v=zABQ02zIB8U)
+- [PostgreSQL Replication](https://www.youtube.com/watch?v=xqu0s0gj38g)
 <!-- YOUTUBE:END -->
 
 ---
