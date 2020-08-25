@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Password Protect a Website](https://www.youtube.com/watch?v=XE0NeGfyI4s)
 - [Monit via Ansible](https://www.youtube.com/watch?v=dfoYdUPdlew)
 - [Deploying Rails](https://www.youtube.com/watch?v=FYQMOmZlu20)
 - [命令行 1](https://www.youtube.com/watch?v=qn5h0Ur0hkw)
 - [Creating Users with Ansible](https://www.youtube.com/watch?v=oXqCpGWydAc)
-- [Forward root email with Ansible](https://www.youtube.com/watch?v=GcKzCepnWOo)
 <!-- YOUTUBE:END -->
 
 ---
