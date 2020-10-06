@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Security via Ansible](https://www.youtube.com/watch?v=tF8enKjLukA)
 - [OSSEC via Ansible](https://www.youtube.com/watch?v=d8MR22gydcM)
 - [Intrusion Detection System](https://www.youtube.com/watch?v=0owS6WUtexQ)
 - [Create SSL Certificate with LetsEncrypt](https://www.youtube.com/watch?v=Q4oJVt6Mxqs)
 - [Backup your files to an Amazon S3 Bucket](https://www.youtube.com/watch?v=Wrf4SIinEdA)
-- [Password Protect a Website](https://www.youtube.com/watch?v=XE0NeGfyI4s)
 <!-- YOUTUBE:END -->
 
 ---
