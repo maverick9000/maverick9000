@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Grafana Ping Dashboard](https://www.youtube.com/watch?v=rXE3Ug2FkEw)
 - [Security via Ansible](https://www.youtube.com/watch?v=tF8enKjLukA)
 - [OSSEC via Ansible](https://www.youtube.com/watch?v=d8MR22gydcM)
 - [Intrusion Detection System](https://www.youtube.com/watch?v=0owS6WUtexQ)
 - [Create SSL Certificate with LetsEncrypt](https://www.youtube.com/watch?v=Q4oJVt6Mxqs)
-- [Backup your files to an Amazon S3 Bucket](https://www.youtube.com/watch?v=Wrf4SIinEdA)
 <!-- YOUTUBE:END -->
 
 ---
