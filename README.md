@@ -24,11 +24,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Emptying Large Logs](https://maverick9000.github.io/emptying-large-logs/)
 - [Secure a server](https://maverick9000.github.io/secure-a-server/)
 - [Typical NGINX scripts](https://maverick9000.github.io/typical-nginx-scripts/)
 - [Typical Monit scripts](https://maverick9000.github.io/typical-monit-scripts/)
 - [Moving PostgreSQL to an additional disk](https://maverick9000.github.io/moving-postgresql-to-additional-disk/)
-- [Running Sidekiq 6 as a Daemon](https://maverick9000.github.io/sidekiq-6-daemon/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
