@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Console Maverick - The Movie](https://www.youtube.com/watch?v=OdRB3ugnxpw)
 - [Backup via Ansible](https://www.youtube.com/watch?v=KQeI3a4fK9w)
 - [命令行 2](https://www.youtube.com/watch?v=ftkg4Ek0j3k)
 - [Grafana Ping Dashboard](https://www.youtube.com/watch?v=rXE3Ug2FkEw)
 - [Security via Ansible](https://www.youtube.com/watch?v=tF8enKjLukA)
-- [OSSEC via Ansible](https://www.youtube.com/watch?v=d8MR22gydcM)
 <!-- YOUTUBE:END -->
 
 ---
