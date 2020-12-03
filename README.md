@@ -24,11 +24,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Ansible Maverick](https://maverick9000.github.io/ansible-maverick-devops-bible/)
 - [Emptying Large Logs](https://maverick9000.github.io/emptying-large-logs/)
 - [Secure a server](https://maverick9000.github.io/secure-a-server/)
 - [Typical NGINX scripts](https://maverick9000.github.io/typical-nginx-scripts/)
 - [Typical Monit scripts](https://maverick9000.github.io/typical-monit-scripts/)
-- [Moving PostgreSQL to an additional disk](https://maverick9000.github.io/moving-postgresql-to-additional-disk/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
