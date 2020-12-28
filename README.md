@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [命令行 3](https://www.youtube.com/watch?v=VCbZfv56Svg)
 - [Build your own Crypto currency tracker](https://www.youtube.com/watch?v=M_hPwwZUq3I)
 - [Console Maverick - The Movie](https://www.youtube.com/watch?v=OdRB3ugnxpw)
 - [Backup via Ansible](https://www.youtube.com/watch?v=KQeI3a4fK9w)
 - [命令行 2](https://www.youtube.com/watch?v=ftkg4Ek0j3k)
-- [Grafana Ping Dashboard](https://www.youtube.com/watch?v=rXE3Ug2FkEw)
 <!-- YOUTUBE:END -->
 
 ---
