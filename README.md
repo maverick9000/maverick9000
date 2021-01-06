@@ -24,11 +24,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing ERROR: toomanyrequests: Too Many Requests. in your Gitlab Continuous Integration Jobs](https://maverick9000.github.io/fixing-too-many-requests-gitlab/)
 - [Ansible Maverick](https://maverick9000.github.io/ansible-maverick-devops-bible/)
 - [Emptying Large Logs](https://maverick9000.github.io/emptying-large-logs/)
 - [Secure a server](https://maverick9000.github.io/secure-a-server/)
 - [Typical NGINX scripts](https://maverick9000.github.io/typical-nginx-scripts/)
-- [Typical Monit scripts](https://maverick9000.github.io/typical-monit-scripts/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
