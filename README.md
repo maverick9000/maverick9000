@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [コマンドライン3](https://www.youtube.com/watch?v=5HnxjUpwTXw)
 - [Test your App for free on a Google Cloud server](https://www.youtube.com/watch?v=X3DTxSoie1c)
 - [Install #Munin using #Ansible](https://www.youtube.com/watch?v=rhUVnYNHgYI)
 - [Multiple #postgresql instances on #ubuntu #linux](https://www.youtube.com/watch?v=yyjGkGrjcg8)
 - [コマンドライン2](https://www.youtube.com/watch?v=-V7Jmy0W-cc)
-- [Install InfluxDB with Ansible](https://www.youtube.com/watch?v=JPYY43BhnoY)
 <!-- YOUTUBE:END -->
 
 ---
