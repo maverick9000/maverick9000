@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [命令行 4](https://www.youtube.com/watch?v=DQQUDPtj29o)
 - [Install #redis via #ansible](https://www.youtube.com/watch?v=LyBy0Wd-qIY)
 - [コマンドライン3](https://www.youtube.com/watch?v=5HnxjUpwTXw)
 - [Test your App for free on a Google Cloud server](https://www.youtube.com/watch?v=X3DTxSoie1c)
 - [Install #Munin using #Ansible](https://www.youtube.com/watch?v=rhUVnYNHgYI)
-- [Multiple #postgresql instances on #ubuntu #linux](https://www.youtube.com/watch?v=yyjGkGrjcg8)
 <!-- YOUTUBE:END -->
 
 ---
