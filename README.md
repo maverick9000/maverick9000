@@ -13,11 +13,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [コマンドライン4](https://www.youtube.com/watch?v=DSWXhAM1kBU)
 - [#Docker on #Rails](https://www.youtube.com/watch?v=-DKs-euP48Q)
 - [命令行 5](https://www.youtube.com/watch?v=gHF4tnfx284)
 - [Swap via #Ansible](https://www.youtube.com/watch?v=9w_huGFxgEI)
 - [#Letsencrypt #SSL via #Ansible](https://www.youtube.com/watch?v=rt564R6Ty-A)
-- [命令行 4](https://www.youtube.com/watch?v=DQQUDPtj29o)
 <!-- YOUTUBE:END -->
 
 ---
